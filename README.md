@@ -11,4 +11,4 @@
 
 # Work Experience
 
-# Edication and Certifications
+# Education and Certifications
