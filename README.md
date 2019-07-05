@@ -21,4 +21,4 @@
 
 * Project Management Fundamentals
 
-* Presentation Skilss
+* Presentation Skills
