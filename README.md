@@ -3,7 +3,8 @@
 
 [georgi.simeonov1@gmail.com](mailto:georgi.simeonov1@gmail.com)
 
-#Summary
--11 years of experiance in IT industry
+# Summary
 
--Key skills: 
+## 11 years of experiance in IT industry
+
+## Key skills: 
