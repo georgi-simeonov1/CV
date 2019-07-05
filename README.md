@@ -5,6 +5,6 @@
 
 # Summary
 
-## 11 years of experiance in IT industry
+* 11 years of experiance in IT industry
 
-## Key skills: 
+* Key skills: 
