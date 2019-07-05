@@ -5,6 +5,10 @@
 
 # Summary
 
-* 11 years of experiance in IT industry
+* Profile and key expertise
 
-* Key skills: 
+* 11 years in IT industry
+
+# Work Experience
+
+# Edication and Certifications
