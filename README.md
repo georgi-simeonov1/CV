@@ -12,3 +12,13 @@
 # Work Experience
 
 # Education and Certifications
+
+* ITIL Expert in IT Service Management 
+
+* DevOps Yellow & Green Belt
+
+* Scrum Fundamentals 
+
+* Project Management Fundamentals
+
+* Presentation Skilss
